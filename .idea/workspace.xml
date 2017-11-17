@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="" />
+    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/index.html" afterPath="$PROJECT_DIR$/your-first-pwapp-master/work/index.html" />
+    </list>
     <ignored path="your-first-pwapp-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1250">
-              <caret line="188" column="11" selection-start-line="188" selection-start-column="11" selection-end-line="188" selection-end-column="11" />
+            <state relative-caret-position="221">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -68,6 +71,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marripudi &lt;srinivasa.marripudi@us.sogeti.com&gt;" />
+        <option value="SrinivasaMarripudi &lt;marripudisrinu@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -76,8 +85,8 @@
         <option value="$PROJECT_DIR$/your-first-pwapp-master/final/scripts/app.js" />
         <option value="$PROJECT_DIR$/your-first-pwapp-master/work/service-worker.js" />
         <option value="$PROJECT_DIR$/your-first-pwapp-master/work/scripts/app.js" />
-        <option value="$PROJECT_DIR$/your-first-pwapp-master/work/index.html" />
         <option value="$PROJECT_DIR$/your-first-pwapp-master/work/manifest.json" />
+        <option value="$PROJECT_DIR$/your-first-pwapp-master/work/index.html" />
       </list>
     </option>
   </component>
@@ -251,15 +260,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510849692192</updated>
-      <workItem from="1510849693328" duration="11190000" />
+      <workItem from="1510849693328" duration="12700000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed title">
+      <created>1510947767449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510947767449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Reverted title back and changed header name....">
+      <created>1510948140136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510948140136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reverted title back and changed header name.... sriivasa">
+      <created>1510948259588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510948259588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11190000" />
+    <option name="totallyTimeSpent" value="12700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24695928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -291,6 +322,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed title" />
+    <MESSAGE value="Reverted title back and changed header name...." />
+    <MESSAGE value="Reverted title back and changed header name.... sriivasa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverted title back and changed header name.... sriivasa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -343,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="188" column="11" selection-start-line="188" selection-start-column="11" selection-end-line="188" selection-end-column="11" />
+        <state relative-caret-position="221">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
           <folding />
         </state>
       </provider>
