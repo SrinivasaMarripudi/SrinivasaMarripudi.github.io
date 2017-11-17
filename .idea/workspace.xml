@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="removed font-awesome">
+    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css" afterPath="$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css" />
     </list>
     <ignored path="your-first-pwapp-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="inline.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state relative-caret-position="286">
+              <caret line="113" column="50" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -324,7 +325,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510849692192</updated>
-      <workItem from="1510849693328" duration="15886000" />
+      <workItem from="1510849693328" duration="16136000" />
     </task>
     <task id="LOCAL-00001" summary="Changed title">
       <created>1510947767449</created>
@@ -375,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510956381619</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="removed font-awesome">
+      <created>1510956654744</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510956654744</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15886000" />
+    <option name="totallyTimeSpent" value="16136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -484,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state relative-caret-position="286">
+          <caret line="113" column="50" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
           <folding />
         </state>
       </provider>
