@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="">
+    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="fix back build errors">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cloudy-scattered-showers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cloudy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cloudy_s_sunny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/fog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-128x128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/icon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/partly-cloudy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scattered-showers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sleet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thunderstorm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wind.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ic_add_white_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ic_refresh_white_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/clear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/cloudy-scattered-showers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/cloudy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/cloudy_s_sunny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/fog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/ic_add_white_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/ic_refresh_white_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-128x128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/icons/icon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/partly-cloudy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/rain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/scattered-showers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/sleet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/snow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/thunderstorm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/images/wind.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css" afterPath="$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css" />
     </list>
@@ -39,8 +80,8 @@
       <file leaf-file-name="inline.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="113" column="50" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
+            <state relative-caret-position="176">
+              <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -158,104 +199,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="your-first-pwapp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -325,7 +268,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510849692192</updated>
-      <workItem from="1510849693328" duration="16136000" />
+      <workItem from="1510849693328" duration="16474000" />
     </task>
     <task id="LOCAL-00001" summary="Changed title">
       <created>1510947767449</created>
@@ -383,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510956654744</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="removed font-awesome">
+      <created>1510956911857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1510956911857</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16136000" />
+    <option name="totallyTimeSpent" value="16474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -431,7 +381,8 @@
     <MESSAGE value="header refresh and add icon style chnages" />
     <MESSAGE value="inlude font-awesome cdn and fa-plus, fa-refresh icon on index page" />
     <MESSAGE value="removed font-awesome" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed font-awesome" />
+    <MESSAGE value="fix back build errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix back build errors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/work/styles/inline.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="113" column="50" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
+        <state relative-caret-position="176">
+          <caret line="141" column="30" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
           <folding />
         </state>
       </provider>
