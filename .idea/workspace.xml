@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="">
+    <list default="true" id="119d1f85-4751-413d-8220-fb47391dcfd7" name="Default" comment="Added hyderabd , chennai , banagalore cities">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/your-first-pwapp-master/final/index.html" afterPath="$PROJECT_DIR$/your-first-pwapp-master/final/index.html" />
     </list>
@@ -61,8 +61,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="161" column="32" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+            <state relative-caret-position="224">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -238,7 +238,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510849692192</updated>
-      <workItem from="1510849693328" duration="16878000" />
+      <workItem from="1510849693328" duration="17573000" />
     </task>
     <task id="LOCAL-00001" summary="Changed title">
       <created>1510947767449</created>
@@ -310,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510957261044</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added hyderabd , chennai , banagalore cities">
+      <created>1510957670327</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1510957670327</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16878000" />
+    <option name="totallyTimeSpent" value="17573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -359,7 +366,8 @@
     <MESSAGE value="inlude font-awesome cdn and fa-plus, fa-refresh icon on index page" />
     <MESSAGE value="removed font-awesome" />
     <MESSAGE value="fix back build errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix back build errors" />
+    <MESSAGE value="Added hyderabd , chennai , banagalore cities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added hyderabd , chennai , banagalore cities" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -428,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/your-first-pwapp-master/final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="161" column="32" selection-start-line="161" selection-start-column="32" selection-end-line="161" selection-end-column="32" />
+        <state relative-caret-position="224">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding />
         </state>
       </provider>
